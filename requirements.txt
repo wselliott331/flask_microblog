@@ -172,3 +172,10 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.1.1
 widgetsnbextension==3.6.0
+click==8.1.2
+Flask==2.1.1
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+pymongo==4.1.1
+Werkzeug==2.1.1
